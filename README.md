@@ -1,1 +1,1 @@
-# Pine-tree-ya.gihub.io
+# Pine-tree-ya.github.io
